@@ -1,0 +1,15 @@
+artifact_uri: file:///home/simon/Dokumente/udacity/ML_DevOp/Building%20Reproducible%20Model%20Workflows/6_FinalPipelineReleaseAndDeploy/ex14/genre_classification/mlruns/0/929bf28d374c4dada86ccdb337d90e86/artifacts
+end_time: 1686988698295
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 929bf28d374c4dada86ccdb337d90e86
+run_name: languid-loon-934
+run_uuid: 929bf28d374c4dada86ccdb337d90e86
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686988126265
+status: 4
+tags: []
+user_id: simon
