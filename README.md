@@ -1,2 +1,2 @@
 # genre_classification
-Exercise 14 of MLops
+Exercise 14 of MLop
